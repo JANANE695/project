@@ -1,0 +1,1 @@
+hadoop jar janu.jar Qs3 /niit1/h1b_kaggle.csv /niit2/out1
